@@ -4,5 +4,5 @@ title:
 permalink: /
 section: home
 intro_paragraph: >
-  ![Me and my dog Arlo](/assets/IMG_013.JPG).
+  ![Me and my dog Arlo](/assets/img/IMG_013.JPG).
 ---
