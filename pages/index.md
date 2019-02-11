@@ -4,5 +4,5 @@ title:
 permalink: /
 section: home
 intro_paragraph: >
-  ![Me and my dog Arlo](/assets/img/IMG_0113.JPG)
+  [GitHub](https://www.github.com/chupacabreh) * [Twitter](https://www.twitter.com/chupacabreh) * [E-mail](mailto:mattfreitas415@gmail.com)
 ---
