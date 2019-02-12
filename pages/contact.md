@@ -1,9 +1,11 @@
 ---
 layout: contact
-title: Contact
+title:
 permalink: /contact
 section: contact
 intro_paragraph: |-
 ---
 
-**Send me a message**
+# Questions? Concerns? Chat about the weather? Send me a message.
+
+---
