@@ -25,6 +25,6 @@ Here I am (middle) fresh out of a REAL boot camp in 2002.
 
 #### 2nd Boot Camp and Beyond
 
-Of course, I'm out of the service and I'm currently bartending to pay the bills. I've discovered the self-taught engineering movement and I've dove right in. First with Bloc, and I'm now continuing to learn on my own through a variety of ways. Visit my [GitHub](http://www.github.com/chupacabreh) to see what I am working on, check out my [blog](/blog/) or [twitter](http://www.twitter.com/chupacabreh)! Thanks for reading!
+Of course, these days I'm out of the service. I'm currently bartending to pay the bills and I'm studying web development as much as possible. I've discovered the self-taught engineering movement and I've dove right in. I started with Bloc coding bootcamp and it continues on with udemy courses, online tutorials, meetups, and even Twitter. Visit my [GitHub](http://www.github.com/chupacabreh) to see what I am working on, check out my [blog](/blog/) or [twitter](http://www.twitter.com/chupacabreh)! Thanks for reading!
 
 <small>This project is maintained by <a href="https://www.danurbanowicz.com" rel="noopener">Dan Urbanowicz</a>. View the repo on <a href="https://github.com/danurbanowicz/jekyll-netlify-boilerplate" rel="noopener">Github</a></small>
