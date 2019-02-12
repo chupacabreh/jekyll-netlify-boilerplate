@@ -6,4 +6,6 @@ section: home
 intro_paragraph: >
 ---
 
-Welcome to my personal web page. Please peruse the [about](/about) page for more information about myself or go through my [blog posts](/blog) where I will detail my learning progress and current projects.
+## Aspiring developer, bartender, dog dad.
+
+Check out the [about](/about) page to learn more about me. Peruse the [blog posts](/blog) to see what I've been up to lately.
