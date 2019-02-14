@@ -1,28 +1,27 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-author: dan_urbanowicz
-date: '2018-07-03 12:00:00'
+title: First Post! CS50 & React
+author: Matt Freitas
+date: "2019-02-14 12:00:00"
 categories: misc
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Finally a post! My intention with this blog is to semi-frequently outline my learning progress. Right now, I am currently working through the ever popular Harvard CS50 course. I am supplementing that with a React Web Developer course by Andrew Mead. I think I'll add some more resources in as I go along. I'm thinking possibly maybe trying a new coding challenge daily, or semi-daily depending on how difficult/slow I am. \*\*\*\*
 
-Jekyll also offers powerful support for code snippets:
+I've also instituted a daily mediation practice. I'll be doing ten minutes every morning. Not sure what to expect, but I figure it can't hurt. Maybe I can use mindfulness when I get frustrated with coding/learning :)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+### Some thoughts about week 0 of CS50:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+The professor, David J Malan, seems very enthusiastic and concise with his teaching. I can see why this course is so popular. He is energetic and lively, and offers elaborate explanations that are easy to understand. We'll see how this develops as the course progesses. Needless to say I find myself easily drawn to his teaching style. I've heard that it gets very difficult, very fast. \*\*\*\*
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+My first project was a scratch game. It's pretty basic but I'm pretty sure it satisfies all the requirements. It can be found [here](https://scratch.mit.edu/projects/286745474/)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![squirrel](/assets/img/sqrl.png)
+
+### React Notes
+
+Today the course went over some ES6 fundamentals. This is all well and good for me, as I don't have a lot of experience with ES6. I learned about classes for resuable code and extending classes. Also how to create a new instance of a class.
+
+Super() is your friend.
+
+That's it for now. I'm off to work. Cheers!
